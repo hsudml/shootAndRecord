@@ -1,3 +1,5 @@
+![Title banner](images/shootingVideoBanner.png)
+
 # Shooting Video &amp; Recording Audio
 DSLRs, Camcorders, Mics and more!
 
