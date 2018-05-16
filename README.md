@@ -17,7 +17,7 @@ There are no defined activies for this workshop, but facilitators should bring e
 
 Multiple versions of the same content:
 + [Webpage](https://hsudml.github.io/shootingVideo/guide) (screen reader friendly).
-+ [Printable booklet](https://drive.google.com/open?id=1rZlP7CjS9o8Bcxo3SpVHEkd-Umf--DxT) (not accessible).
++ [Printable booklet](https://drive.google.com/open?id=1PHJYOwhF-C2jTSCcA5m-sYaLBuQa_Bz8) (not accessible).
 + [Digital version](https://docs.google.com/presentation/d/e/2PACX-1vTkHo3afDSzIF8Me6MUpYRB15E-7OCP-KBshZRW91bzFTQTNKG2fQWtnTcoznEbpQWqZ-jI8m6xZQIV/pub?start=false&loop=false&delayms=3000) (also not accessible).
 
 ---
