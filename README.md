@@ -20,6 +20,9 @@ Multiple versions of the same content:
 + [Printable booklet](https://drive.google.com/open?id=1PHJYOwhF-C2jTSCcA5m-sYaLBuQa_Bz8) (not accessible).
 + [Digital version](https://docs.google.com/presentation/d/e/2PACX-1vTkHo3afDSzIF8Me6MUpYRB15E-7OCP-KBshZRW91bzFTQTNKG2fQWtnTcoznEbpQWqZ-jI8m6xZQIV/pub?start=false&loop=false&delayms=3000) (also not accessible).
 
+
 ---
 ## Other Links
+[View all of the SkillShops repositories](https://hsudml.github.io/skillshops)
+
 For more info, questions, or suggestions, email dml@humboldt.edu
