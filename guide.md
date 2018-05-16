@@ -10,7 +10,7 @@ Software to edit this footage is available at the media lab. There's also online
 
 ![Storyboards for two scenes, each asking for info about equipment, environment and footage](images/storyboard.png)
 
-When thinking about your video project, you will want to think about: 
+When planning your video project, you will want to think about: 
 + Equipment (camera, mic, props)
 + Environment (location, lighting, noise, traffic)
 + Footage (B-roll, where, what equipment, types of shots)
