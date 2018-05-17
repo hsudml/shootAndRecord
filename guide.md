@@ -10,6 +10,9 @@ Shoot your video with the help of the Digital Media Lab. You can check out camer
 
 Software to edit this footage is available at the media lab. There's also online sites students can download free audio for their projects. See below for more info.
 
+## Storyboard
+Fill out the storyboard with what you want to record in your scene. How will you frame the shot? Who will be in the shot? What kind of audio will you need to capture (voice, background sounds, background music)?
+
 ![Storyboards for two scenes, each asking for info about equipment, environment and footage](images/storyboard.png)
 
 When planning your video project, you will want to think about: 
